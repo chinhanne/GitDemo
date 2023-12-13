@@ -8,6 +8,10 @@ namespace WindowsFormsApp1.Models
 {
     internal class Student
     {
+
         public int ID { get; set; }
+
+        public int MSSV { get; set; }
+
     }
 }
